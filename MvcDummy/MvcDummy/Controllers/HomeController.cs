@@ -24,6 +24,7 @@ namespace MvcDummy.Controllers
 
         public ActionResult Contact()
         {
+            //testing
             ViewBag.Message = "Your contact page.";
 
             return View();
